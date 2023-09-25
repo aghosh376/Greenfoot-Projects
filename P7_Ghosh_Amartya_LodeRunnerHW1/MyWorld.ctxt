@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x\ y\ row\ col
+comment3.target=void\ makeWalls(int,\ int,\ int,\ int)
+comment4.params=x\ y\ height
+comment4.target=void\ makeLadders(int,\ int,\ int)
+comment5.params=x\ y\ width
+comment5.target=void\ makeBars(int,\ int,\ int)
+numComments=6

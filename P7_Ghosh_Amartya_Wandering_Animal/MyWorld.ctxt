@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=W\ H\ x\ y
+comment2.target=void\ createWalls(int,\ int,\ int,\ int)
+comment3.params=obj
+comment3.target=void\ spawnRandom(greenfoot.Actor)
+numComments=4

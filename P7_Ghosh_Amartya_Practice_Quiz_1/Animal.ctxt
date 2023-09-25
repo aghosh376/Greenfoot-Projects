@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=
+comment1.target=Animal()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=not
+comment3.target=int\ pickDirection(int)
+comment4.params=
+comment4.target=void\ movement()
+comment5.params=
+comment5.target=int\ bounds()
+comment6.params=
+comment6.target=void\ despawn()
+numComments=7

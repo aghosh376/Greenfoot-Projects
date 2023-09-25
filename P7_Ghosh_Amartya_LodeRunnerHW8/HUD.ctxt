@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HUD
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=add
+comment2.target=void\ addScore(int)
+comment3.params=sub
+comment3.target=void\ subLives(int)
+comment4.params=
+comment4.target=void\ nextLevel()
+comment5.params=
+comment5.target=int\ getLevel()
+numComments=6
